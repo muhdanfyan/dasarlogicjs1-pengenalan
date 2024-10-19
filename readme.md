@@ -26,6 +26,7 @@ Tutorial langkah demi langkah untuk menggunakan JavaScript dalam proyek kamu.
 📂 Struktur Proyek
 Semua kode contoh dan tugas tersedia di repository ini.
 
+```
 bash
 Salin kode
 ├── src/                     # Folder berisi kode contoh JavaScript
@@ -33,6 +34,8 @@ Salin kode
 ├── tasks/                   # Folder berisi tugas untuk peserta tutorial
 │   └── tugas_materi1.js      # Tugas sederhana yang harus diselesaikan peserta
 └── README.md                # Dokumentasi utama proyek
+```
+
 💻 Cara Menjalankan Kode
 Clone Repository ini ke komputer lokalmu:
 
