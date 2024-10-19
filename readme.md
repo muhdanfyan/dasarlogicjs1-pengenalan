@@ -1,6 +1,6 @@
 
-📚 Tutorial Dasar Logika dengan JavaScript: Pendekatan 5W1H
-Selamat datang di tutorial Basic Logic dengan JavaScript! 🎉
+#📚 Tutorial Dasar Logika dengan JavaScript: Pendekatan 5W1H
+##Selamat datang di tutorial Basic Logic dengan JavaScript! 🎉
 
 Di tutorial ini, kamu akan belajar dasar-dasar logika pemrograman menggunakan JavaScript dengan pendekatan 5W1H: Apa (What), Siapa (Who), Kapan (When), Di mana (Where), Mengapa (Why), dan Bagaimana (How). Dengan memahami dasar logika ini, kamu akan lebih siap untuk memulai perjalananmu dalam dunia pemrograman!
 
