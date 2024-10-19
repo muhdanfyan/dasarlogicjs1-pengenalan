@@ -27,8 +27,6 @@ Tutorial langkah demi langkah untuk menggunakan JavaScript dalam proyek kamu.
 Semua kode contoh dan tugas tersedia di repository ini.
 
 ```
-bash
-Salin kode
 ├── src/                     # Folder berisi kode contoh JavaScript
 │   └── penjelasan_javascript.js   # File utama dengan penjelasan 5W1H
 ├── tasks/                   # Folder berisi tugas untuk peserta tutorial
@@ -72,7 +70,7 @@ Jika kamu memiliki ide atau ingin berkontribusi untuk memperbaiki atau memperlua
 🤝 Diskusi dan Pertanyaan
 Jika kamu memiliki pertanyaan atau ingin berdiskusi lebih lanjut tentang materi ini, kamu bisa membuat issue di repo ini atau menghubungi kami melalui:
 
-Email: email@example.com
+Email: muhdanfyan@gmail.com
 GitHub Discussions: Link ke Diskusi
 Kami akan dengan senang hati membantumu!
 
