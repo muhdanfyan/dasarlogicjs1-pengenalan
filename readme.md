@@ -39,10 +39,10 @@ Salin kode
 💻 Cara Menjalankan Kode
 Clone Repository ini ke komputer lokalmu:
 
-bash
-Salin kode
+```
 git clone https://github.com/username/basic-logic-javascript-5w1h.git
 cd basic-logic-javascript-5w1h
+```
 Buka file penjelasan_javascript.js di editor kode favoritmu (misal: VS Code) dan jalankan di console browser untuk melihat hasilnya.
 
 Untuk melihat kode dalam HTML:
